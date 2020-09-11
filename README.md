@@ -3,7 +3,7 @@ This repository consists of the mostly asked, important DS algorithms based on J
 New Algo's would soon be added to the repository.
 Happy Learning!
 
-#Reffered Books
+# Reffered Books
 - Data Structures with C by Schaum Series
 - Data Structures: A Pseudocode Approach with C by Richard F. Gilberg
 - Fundamentals Of Data Structures in C by Horowitz
@@ -12,7 +12,7 @@ Happy Learning!
 - Object Oriented Programming with C++ by E Balaguruswamy
 - Computer Oriented Numerical Methods By V. Rajaraman 
 
-#Reffered Websites
+# Reffered Websites
 - [GeeksforGeeks](http://www.geeksforgeeks.org)
 - [hackerearth](https://www.hackerearth.com/notes)
 - [topcoder](https://www.topcoder.com/community/data-science/data-science-tutorials)
